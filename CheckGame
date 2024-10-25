@@ -1,1 +1,3 @@
-
+getgenv().Games = {
+    [3623096087] = "https://raw.githubusercontent.com/CAXAP26BKyCH/TheQuantium/main/TheQuantiumOnTop", -- Muscle Legends
+}
